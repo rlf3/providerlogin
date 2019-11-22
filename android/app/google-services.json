@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336398099362",
+    "firebase_url": "https://providerlogin-73b5d.firebaseio.com",
+    "project_id": "providerlogin-73b5d",
+    "storage_bucket": "providerlogin-73b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336398099362:android:e0872e2b998954041c48fb",
+        "android_client_info": {
+          "package_name": "com.example.providerlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336398099362-unhfkkpnovdifnd70oi1d9fiihrua15e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z14y0A9WeeRJ7NBp0etVqbogvRiuOk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336398099362-unhfkkpnovdifnd70oi1d9fiihrua15e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
